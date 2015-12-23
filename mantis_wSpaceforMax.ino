@@ -22,7 +22,7 @@ void loop() {
 
 
     Serial.print(heart);
-    Serial.print(" ");
+    Serial.print(" ");  // <------ MAX likes spaces
   Serial.println(breath);
   //  Serial.print(",");
   //  Serial.println(analogRead(bluePin));
