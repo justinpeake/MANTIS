@@ -21,7 +21,7 @@ void loop() {
 
 
     Serial.print(heart);
-    Serial.print(",");
+    Serial.print(",");  // <----- PROCESSING likes commas
     Serial.println(breath);
   //  Serial.print(",");
   //  Serial.println(analogRead(bluePin));
