@@ -1,7 +1,6 @@
 # M.A.N.T.I.S.
-Mutually Adaptive Neuro-Tonal Interface System
-
-2015-18 _ Author: Justin Peake 
+# Mutually Adaptive Neuro-Tonal Interface System  
+Justin Peake - 2015-2018
 
 Mantis is an application which takes input from a person's heart rate and breath velocity to create an immersive sonic experience.
 
